@@ -1,0 +1,9 @@
+build/**
+*/build
+**/compile_commands.json
+test
+.cache
+*/.cache/*
+**/.cache/**
+
+**/imgui.ini

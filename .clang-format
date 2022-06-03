@@ -1,0 +1,30 @@
+---
+BasedOnStyle: Chromium
+Standard: c++17
+IndentWidth: 4
+---
+Language: Cpp
+PointerAlignment: Right
+AlignAfterOpenBracket: AlwaysBreak
+DerivePointerAlignment: false
+AlignArrayOfStructures: Right
+BreakConstructorInitializers: BeforeComma
+EmptyLineBeforeAccessModifier: LogicalBlock
+FixNamespaceComments: true
+IncludeBlocks: Regroup
+BreakStringLiterals: false
+AlwaysBreakBeforeMultilineStrings: false
+
+AlignEscapedNewlines: Left
+AlignTrailingComments: true
+AlignConsecutiveMacros: AcrossEmptyLinesAndComments
+# AlignConsecutiveDeclarations: AcrossEmptyLines
+AlignConsecutiveAssignments: AcrossEmptyLinesAndComments
+AllowShortFunctionsOnASingleLine: All
+NamespaceIndentation: All
+CompactNamespaces: true
+
+BreakBeforeBraces: Allman
+
+AlwaysBreakTemplateDeclarations: Yes
+---

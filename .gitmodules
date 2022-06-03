@@ -1,0 +1,3 @@
+[submodule "libs/ftxui"]
+	path = libs/ftxui
+	url = https://github.com/ArthurSonzogni/ftxui
